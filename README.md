@@ -1,3 +1,4 @@
 # fftai_alexbotmini
  A small robot specially for RL
-![48b5f03ee891db9dfc6eb37eddc8cf3](https://github.com/user-attachments/assets/a53c2027-79bc-469d-85cc-02a31c6e18af)
+
+![alexbotmini](https://github.com/user-attachments/assets/8ced7741-8297-4346-821c-64fe1cec6f25)
