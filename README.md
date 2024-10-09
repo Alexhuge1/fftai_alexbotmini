@@ -5,7 +5,7 @@
 
 ---
 ### English
-Bipedal Robot Simple Full Skill Stack _fftai_alexbot_mini
+# Bipedal Robot Simple Full Skill Stack _fftai_alexbot_mini
 ![alexbotmini(3D)](https://github.com/user-attachments/assets/d2038e5d-9acb-4a69-8514-2992ff1a9225)
 ![alexbotmini_stand](https://github.com/user-attachments/assets/80a85bde-7926-4adb-9de6-169afd13d054)
 
@@ -19,7 +19,7 @@ For detailed information, please refer to the 'Readme_en.pdf' document in the do
 
 ### 中文
 
-#双足机器人简易全技能栈_fftai_alexbot_mini
+# 双足机器人简易全技能栈_fftai_alexbot_mini
 A small robot specially for RL
 
 <div style="text-align: center;">
