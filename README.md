@@ -8,6 +8,7 @@
 Bipedal Robot Simple Full Skill Stack _fftai_alexbot_mini
 ![alexbotmini(3D)](https://github.com/user-attachments/assets/d2038e5d-9acb-4a69-8514-2992ff1a9225)
 ![alexbotmini_stand](https://github.com/user-attachments/assets/80a85bde-7926-4adb-9de6-169afd13d054)
+
 <div style="text-align: center;">
     <img src="https://github.com/user-attachments/assets/81d73fed-3d39-41d4-b046-e63b38447b72" alt="运行图" style="display: block; margin-left: auto; margin-right: auto;">
 </div>
