@@ -11,7 +11,7 @@
 ### English
 # Bipedal Robot Simple Full Skill Stack _fftai_alexbot_mini
 
-<div style="text-align: center;">
+<div align=center>
     <img src="https://github.com/user-attachments/assets/81d73fed-3d39-41d4-b046-e63b38447b72" alt="运行图" style="display: block; margin-left: auto; margin-right: auto;">
 </div>
 
@@ -23,10 +23,11 @@ For detailed information, please refer to the 'Readme_en.pdf' document in the do
 # 双足机器人简易全技能栈_fftai_alexbot_mini
 A small robot specially for RL
 
-<div style="text-align: center;">
+<div align=center>
     <img src="https://github.com/user-attachments/assets/81d73fed-3d39-41d4-b046-e63b38447b72" alt="运行图" style="display: block; margin-left: auto; margin-right: auto;">
 </div>
 
 fftai_alexbot_mini是一款拟打算全开源的双足机器人（包含机械，硬件，控制，算法），重点在于研究步态算法以及轻松部署步态降低RealityGap而设计的，整机fftai_alexbot_mini下半身长度700mm，上半身长度500mm，整体符合人体比例设计。
 详细细节见doc中Readme_zh.pdf
+
 
